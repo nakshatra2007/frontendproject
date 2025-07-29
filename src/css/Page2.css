@@ -1,0 +1,15 @@
+.main1{
+  font-size: xx-large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: aqua;
+  
+}
+.link2{
+  text-align: right;
+  border-style: solid;
+  padding: 10px;
+  display: inline-block;
+}
+#text1{
+  text-decoration: underline;
+}
